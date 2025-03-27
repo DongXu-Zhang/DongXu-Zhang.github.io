@@ -1,3 +1,14 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<span class='anchor' id='about-me'></span>
 I work at XJTU as a master now in Xi'an. 
 I am now working on point cloud registration(PCR) and 3D-Vision. If you are seeking any form of **academic cooperation**, please feel free to email me at [zhangdongxu@stu.xjtu.edu.cn](mailto:zhangdongxu@stu.xjtu.edu.cn).
 
