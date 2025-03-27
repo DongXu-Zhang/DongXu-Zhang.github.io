@@ -43,16 +43,18 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12* National first prize in Tecorigin Operator Development Task Challenge
+- *2024.06* Outstanding graduate in TYUT
+- *2023.12* First-class scholarship (%5)
+- *2022.12* National Second prize in C++ group of Computer Ability Challenge 
+- *2021.05* Truth-Seeking Star (10 students in TYUT each year) 
 
 # 📖 Educations
 - *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an. 
-- *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of technology, Taiyuan. 
+- *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of Technology, Taiyuan. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.12*, First prize defense in Tecorigin Operator Development Task Challenge, Wuhan. [link](https://competition.atomgit.com/newsinfo?id=fc24043e6d4210cb038ca9a02b39d480)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.04 - 2024.08*, jiqizhixin, Xi'an.
