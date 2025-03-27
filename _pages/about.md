@@ -1,7 +1,7 @@
 I work at XJTU as a master now in Xi'an. 
 I am now working on point cloud registration(PCR) and 3D-Vision. If you are seeking any form of **academic cooperation**, please feel free to email me at [zhangdongxu@stu.xjtu.edu.cn](mailto:zhangdongxu@stu.xjtu.edu.cn).
 
-I graduated from [Computer Science College](https://ccst.tyut.edu.cn/), Taiyuan University of Technology with a bachelor's degree and from the Department of Software Engineer, Xi'an Jiaotong University with a master's degree. 
+I graduated from [School of Computer Science and Technology](https://ccst.tyut.edu.cn/), Taiyuan University of Technology with a bachelor's degree and from the [Department of Software Engineer](https://se.xjtu.edu.cn/), Xi'an Jiaotong University with a master's degree. 
 
 
 # 🔥 News
