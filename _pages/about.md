@@ -17,30 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I work at XJTU as a master now in Xi'an. 
+I am now working on point cloud registration(PCR) and 3D-Vision. If you are seeking any form of **academic cooperation**, please feel free to email me at [zhangdongxu@stu.xjtu.edu.cn](mailto:zhangdongxu@stu.xjtu.edu.cn).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from [Computer Science College](https://ccst.tyut.edu.cn/), Taiyuan University of Technology with a bachelor's degree and from the Department of Software Engineer, Xi'an Jiaotong University with a master's degree. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+coming soon!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- `TIA` [Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration](https://ieeexplore.ieee.org/abstract/document/10243038), Yingsen Wang, **Dongxu Zhang**, et al.
 
 # 🎖 Honors and Awards
 - *2024.12* National first prize in Tecorigin Operator Development Task Challenge
@@ -50,12 +37,15 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.05* Truth-Seeking Star (10 students in TYUT each year) 
 
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an, Mentor:[Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh). 
-- *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of Technology, Taiyuan, Mentor:[Juanjuan Zhao](https://rjxy.tyut.edu.cn/info/1191/3989.htm). 
+- *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an, Mentor: [Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh)
+- *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of Technology, Taiyuan, Mentor: [Juanjuan Zhao](https://rjxy.tyut.edu.cn/info/1191/3989.htm)
 
 # 💬 Invited Talks
 - *2025.02*, Taichu 2024 excellent developer oral report, Beijing. [Info](https://mp.weixin.qq.com/s/rRe3ZKtaml_GfJBn_jEqZg)
 - *2024.12*, First prize defense in Tecorigin Operator Development Task Challenge, Wuhan. [Info](https://competition.atomgit.com/newsinfo?id=fc24043e6d4210cb038ca9a02b39d480)
+- *2021.05*, Outstanding student representative gave a speech, Taiyuan. [Info](https://202.207.240.104/info/1027/20234.htm)
 
-# 💻 Internships
+# 💻 Internships and Research
+- *2024.07 - (now)*, CVML Lab, Xi'an.
 - *2024.04 - 2024.08*, jiqizhixin, Xi'an.
+- *2021.09 - 2024.06*, Image and Intelligence Lab, Taiyuan.
