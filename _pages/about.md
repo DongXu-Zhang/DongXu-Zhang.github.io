@@ -50,11 +50,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.05* Truth-Seeking Star (10 students in TYUT each year) 
 
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an. 
-- *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of Technology, Taiyuan. 
+- *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an, Mentor:[Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh). 
+- *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of Technology, Taiyuan, Mentor:[Juanjuan Zhao](https://rjxy.tyut.edu.cn/info/1191/3989.htm). 
 
 # 💬 Invited Talks
-- *2024.12*, First prize defense in Tecorigin Operator Development Task Challenge, Wuhan. [link](https://competition.atomgit.com/newsinfo?id=fc24043e6d4210cb038ca9a02b39d480)
+- *2025.02*, Taichu 2024 excellent developer oral report, Beijing. [Info](https://mp.weixin.qq.com/s/rRe3ZKtaml_GfJBn_jEqZg)
+- *2024.12*, First prize defense in Tecorigin Operator Development Task Challenge, Wuhan. [Info](https://competition.atomgit.com/newsinfo?id=fc24043e6d4210cb038ca9a02b39d480)
 
 # 💻 Internships
 - *2024.04 - 2024.08*, jiqizhixin, Xi'an.
