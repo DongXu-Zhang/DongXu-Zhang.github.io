@@ -16,7 +16,7 @@ I graduated from [School of Computer Science and Technology](https://ccst.tyut.e
 
 
 # 🔥 News
-I am currently a research assistant at the Institute of Automation, CASIA, Chinese Academy of Sciences under the supervision of AP [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ). My research focuses on LLM Reasoning.
+
 
 # 📝 Publications 
 - `TIA` [Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration](https://ieeexplore.ieee.org/abstract/document/10243038), Yingsen Wang, **Dongxu Zhang**, et al.
@@ -38,7 +38,7 @@ I am currently a research assistant at the Institute of Automation, CASIA, Chine
 - *2021.05*, Outstanding student representative gave a speech, Taiyuan. [Info](https://202.207.240.104/info/1027/20234.htm)
 
 # 💻 Internships and Research
-- *2025.04 - (now)*, CASIA, Beijing.
+- *2025.04 - (now)*, CASIA, Beijing. Mentor: [Ning Yang]([https://rjxy.tyut.edu.cn/info/1191/3989.htm](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ)).
 - *2024.07 - (now)*, CVML Lab, Xi'an.
 - *2024.04 - 2024.08*, jiqizhixin, Xi'an.
 - *2021.09 - 2024.06*, Image and Intelligence Lab, Taiyuan.
