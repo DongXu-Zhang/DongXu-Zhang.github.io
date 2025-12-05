@@ -29,7 +29,7 @@ I am currently a research assistant at the Institute of Automation, CASIA, Chine
 - *2021.05* Truth-Seeking Star (10 students in TYUT each year) 
 
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an, Mentor: [Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh)
+- *2024.09 - 2027.06 (now)*,  Master, Software engineer, Xi'an Jiaotong University, Xi'an.
 - *2020.09 - 2024.06*, Undergraduate, Computer science and technology, Taiyuan Univeristy of Technology, Taiyuan, Mentor: [Juanjuan Zhao](https://rjxy.tyut.edu.cn/info/1191/3989.htm)
 
 # 💬 Invited Talks
