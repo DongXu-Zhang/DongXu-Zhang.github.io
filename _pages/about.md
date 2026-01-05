@@ -17,6 +17,7 @@ I graduated from [School of Computer Science and Technology](https://ccst.tyut.e
 
 # 🔥 News
 
+Currently, I am a Visiting Student at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab), where I am privileged to be advised by [Cheng Tan](https://chengtan9907.github.io/). My research primarily focuses on AI for Science and LLM Reasoning.
 
 # 📝 Publications 
 - `TIA` [Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration](https://ieeexplore.ieee.org/abstract/document/10243038), Yingsen Wang, **Dongxu Zhang**, et al.
