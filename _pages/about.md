@@ -19,8 +19,12 @@ I graduated from [School of Computer Science and Technology](https://ccst.tyut.e
 
 Currently, I am a Visiting Student at the Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab), where I am privileged to be advised by [Cheng Tan](https://chengtan9907.github.io/). My research primarily focuses on AI for Science and LLM Reasoning.
 
+[Jan. 2026] 🎉 Excited to share that our paper "IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration" has been accepted by IEEE TCSVT!
+
 # 📝 Publications 
 - `TIA` [Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration](https://ieeexplore.ieee.org/abstract/document/10243038), Yingsen Wang, **Dongxu Zhang**, et al.
+
+- `TCSVT` IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration, **Dongxu Zhang**, Jihua Zhu, et al.
 
 # 🎖 Honors and Awards
 - *2024.12* National first prize in Tecorigin Operator Development Task Challenge.
