@@ -1,72 +1,81 @@
-
-<h1 align="center">
-AcadHomepage
-</h1>
+# Dongxu Zhang (张东旭)
 
 <div align="center">
-
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+  <img src="https://img.shields.io/badge/Xi'an_Jiaotong_Univ.-Master_Student-blue" alt="XJTU">
+  <img src="https://img.shields.io/badge/Shanghai_AI_Lab-Research_Intern-bf80ff" alt="Shanghai AI Lab">
+  <img src="https://img.shields.io/badge/CASIA-Research_Intern-red" alt="CASIA">
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+<br>
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+I am currently a Master's student at the **Department of Software Engineering, Xi'an Jiaotong University (XJTU)**, advised by [Prof. Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh). 
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+Currently, I am a Visiting Student at the **Shanghai Artificial Intelligence Laboratory (Shanghai AI Lab)**, privileged to be advised by [Cheng Tan](https://chengtan9907.github.io/). I am also collaborating closely with [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ) at **CASIA**.
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+My research interests primarily focus on:
+* **LLM Reasoning** (Chain-of-Thought, Compression)
+* **Computer Vision** (Point Cloud Registration)
 
-## Quick Start
+📧 **Email:** [zhangdongxu@stu.xjtu.edu.cn](mailto:zhangdongxu@stu.xjtu.edu.cn)  
+🏠 **Homepage:** [dongxu-zhang.github.io](https://dongxu-zhang.github.io/)
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+---
 
-## Debug Locally
+## 🔥 News
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
+* **[Jan. 2026]** 🚀 Our latest work "**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**" is now on arXiv! We propose **V-Skip** (2.9x speedup) to address "Visual Amnesia". Check out the [Paper](https://arxiv.org/abs/2601.13879) and [Project Page](https://dongxu-zhang.github.io/v-skip.github.io/)!
+* **[Jan. 2026]** 🎉 Paper "**IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**" has been accepted by **IEEE TCSVT**!
+* **[Jan. 2026]** 🎉 Paper "**CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**" has been accepted by **Neurocomputing**!
+* **[Jan. 2026]** 🎉 Paper "**DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION**" has been accepted by **ICASSP**!
+* **[Apr. 2025]** Joined **CASIA** as a research intern, advised by Prof. Ning Yang.
 
-# Acknowledges
+## 📝 Selected Publications
 
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+* **[ArXiv]** **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring** **Dongxu Zhang**, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Haijun Zhang  
+    [[Paper](https://arxiv.org/abs/2601.13879)] [[Project](https://dongxu-zhang.github.io/v-skip.github.io/)]
+
+* **[Neurocomputing]** **CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration** **Dongxu Zhang**, et al.  
+    *(Accepted, 2026)*
+
+* **[IEEE TCSVT]** **IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration** **Dongxu Zhang**, Jihua Zhu, et al.  
+    *(Accepted, 2026)*
+
+* **[ICASSP]** **DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION** Haoran xu, **Dongxu Zhang**, et al.  
+    *(Accepted, 2026)*
+
+* **[IEEE TIA]** **Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration** Yingsen Wang, **Dongxu Zhang**, et al.  
+    [[Link](https://ieeexplore.ieee.org/abstract/document/10243038)]
+
+## 📖 Education
+
+* **2024.09 - Present**: M.Eng. in Software Engineering, **Xi'an Jiaotong University (XJTU)**.  
+    *Advisor: [Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh)*
+* **2020.09 - 2024.06**: B.Eng. in Computer Science and Technology, **Taiyuan University of Technology (TYUT)**.  
+    *Advisor: [Juanjuan Zhao](https://rjxy.tyut.edu.cn/info/1191/3989.htm)*
+
+## 💻 Experience
+
+* **2025.04 - Present**: Research Intern @ **Shanghai AI Lab** & **CASIA** (Beijing).  
+    *Mentors: [Cheng Tan](https://chengtan9907.github.io/) & [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ)*
+* **2024.07 - Present**: Research Assistant @ **CVML Lab**, Xi'an.
+* **2024.04 - 2024.08**: Intern @ **Synced**, Xi'an.
+* **2021.09 - 2024.06**: Research Assistant @ **Image and Intelligence Lab**, Taiyuan.
+
+## 🎖 Honors and Awards
+
+* **2024.12**: National First Prize, Tecorigin Operator Development Task Challenge.
+* **2024.06**: Outstanding Graduate of TYUT.
+* **2023.12**: First-class Scholarship (Top 5%).
+* **2022.12**: National Second Prize, Computer Ability Challenge (C++).
+* **2021.05**: Truth-Seeking Star (Top 10 students in TYUT).
+
+## 💬 Invited Talks
+
+* **2025.02**: Taichu 2024 Excellent Developer Oral Report, Beijing. [[Info](https://mp.weixin.qq.com/s/rRe3ZKtaml_GfJBn_jEqZg)]
+* **2024.12**: First Prize Defense in Tecorigin Challenge, Wuhan. [[Info](https://competition.atomgit.com/newsinfo?id=fc24043e6d4210cb038ca9a02b39d480)]
+
+---
+<div align="center">
+    <p>Last Update: Jan 2026</p>
+    <a href="https://dongxu-zhang.github.io/">Visit My Full Website</a>
+</div>
