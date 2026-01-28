@@ -1,4 +1,4 @@
-# Dongxu Zhang (张东旭)
+# Dongxu Zhang
 
 <div align="center">
   <img src="https://img.shields.io/badge/Xi'an_Jiaotong_Univ.-Master_Student-blue" alt="XJTU">

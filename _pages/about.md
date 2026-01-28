@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I work at XJTU as a master now in Xi'an. 
-I am now working on LLM Reasoning and Chain-of-Thought (CoT). If you are seeking any form of **academic cooperation**, please feel free to email me at [zhangdongxu@stu.xjtu.edu.cn](mailto:zhangdongxu@stu.xjtu.edu.cn).
 
-I graduated from [School of Computer Science and Technology](https://ccst.tyut.edu.cn/), Taiyuan University of Technology with a bachelor's degree and from the [Department of Software Engineering](https://se.xjtu.edu.cn/), Xi'an Jiaotong University with a master's degree. I am collaborating closely with [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ) at the Institute of Automation, Chinese Academy of Sciences (CASIA).
+
+I am currently a Master's student at the **Department of Software Engineering, Xi'an Jiaotong University (XJTU)**, advised by [Prof. Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh). I graduated from [School of Computer Science and Technology](https://ccst.tyut.edu.cn/), Taiyuan University of Technology with a bachelor's degree. I am collaborating closely with [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ) at the Institute of Automation, Chinese Academy of Sciences (CASIA).
+
+**🚀I am now working on LLM Reasoning and Chain-of-Thought (CoT). Currently, I am actively seeking Ph.D. opportunities for the Fall 2027 intake.** I am particularly interested in advancing LLM Reasoning and Multimodal Learning. If you are looking for a self-motivated student with a strong background in 3D-Vision and LLM, or if you are interested in academic collaboration, I would be honored to discuss further via email at [zhangdongxu@stu.xjtu.edu.cn](mailto:zhangdongxu@stu.xjtu.edu.cn).
 
 
 # 🔥 News
@@ -33,9 +34,9 @@ Currently, I am a Visiting Student at the Shanghai Artificial Intelligence Labor
 
 - `Neurocomputing` **CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**, **Dongxu Zhang**, et al.
 
-- `IEEE TCSVT` **IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**, **Dongxu Zhang**, Jihua Zhu, et al.
+- `IEEE TCSVT` [**IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**](https://ieeexplore.ieee.org/abstract/document/11361164), **Dongxu Zhang**, Jihua Zhu, et al.
 
-- `ICASSP` **DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION**, Haoran xu, **Dongxu Zhang**, et al.
+- `ICASSP` **DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION**, Haoran Xu, **Dongxu Zhang**, et al.
 
 - `IEEE TIA` [Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration](https://ieeexplore.ieee.org/abstract/document/10243038), Yingsen Wang, **Dongxu Zhang**, et al.
 
@@ -56,7 +57,8 @@ Currently, I am a Visiting Student at the Shanghai Artificial Intelligence Labor
 - *2021.05*, Outstanding student representative gave a speech, Taiyuan. [Info](https://202.207.240.104/info/1027/20234.htm)
 
 # 💻 Internships and Research
-- *2025.03 - (now)*, CASIA, Beijing. Mentor: [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ).
-- *2024.07 - (now)*, CVML Lab, Xi'an.
+- *2025.12 - (now)*, Shanghai AI Lab, Shanghai. Mentor: [Cheng Tan](https://chengtan9907.github.io/).
+- *2025.03 - 2025.12*, CASIA, Beijing. Mentor: [Ning Yang](https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ).
+- *2024.07 - (now)*, CVML Lab, Xi'an. Mentor: [Jihua Zhu](https://gr.xjtu.edu.cn/web/zhujh).
 - *2024.04 - 2024.08*, Synced, Xi'an.
-- *2021.09 - 2024.06*, Image and Intelligence Lab, Taiyuan.
+- *2021.09 - 2024.06*, Image and Intelligence Lab, Taiyuan. Mentor: [Juanjuan Zhao](https://rjxy.tyut.edu.cn/info/1191/3989.htm).
