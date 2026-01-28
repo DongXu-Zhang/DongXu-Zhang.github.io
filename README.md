@@ -31,19 +31,19 @@ My research interests primarily focus on:
 
 ## 📝 Selected Publications
 
-* **[ArXiv]** **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring** **Dongxu Zhang**, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Haijun Zhang  
+* **[ArXiv]** **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**, **Dongxu Zhang**, Yiding Sun, Cheng Tan, Wenbiao Yan, Ning Yang, Jihua Zhu, Haijun Zhang  
     [[Paper](https://arxiv.org/abs/2601.13879)] [[Project](https://dongxu-zhang.github.io/v-skip.github.io/)]
 
-* **[Neurocomputing]** **CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration** **Dongxu Zhang**, et al.  
+* **[Neurocomputing]** **CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration**, **Dongxu Zhang**, et al.  
     *(Accepted, 2026)*
 
-* **[IEEE TCSVT]** **IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration** **Dongxu Zhang**, Jihua Zhu, et al.  
+* **[IEEE TCSVT]** **IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration**, **Dongxu Zhang**, Jihua Zhu, et al.  
+    *(Accepted, 2026)* [[Link](https://ieeexplore.ieee.org/abstract/document/11361164)]
+
+* **[ICASSP]** **DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION**, Haoran xu, **Dongxu Zhang**, et al.  
     *(Accepted, 2026)*
 
-* **[ICASSP]** **DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION** Haoran xu, **Dongxu Zhang**, et al.  
-    *(Accepted, 2026)*
-
-* **[IEEE TIA]** **Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration** Yingsen Wang, **Dongxu Zhang**, et al.  
+* **[IEEE TIA]** **Enhancing power grid resilience with blockchain-enabled vehicle-to-vehicle energy trading in renewable energy integration**, Yingsen Wang, **Dongxu Zhang**, et al.  
     [[Link](https://ieeexplore.ieee.org/abstract/document/10243038)]
 
 ## 📖 Education
