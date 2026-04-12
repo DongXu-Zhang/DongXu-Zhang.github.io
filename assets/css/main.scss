@@ -107,3 +107,32 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+// ClustrMaps: render inside footer and keep visual size modest
+.clustrmaps-wrap {
+    max-width: 260px;
+    height: 200px;
+    margin: 0 auto 12px;
+    overflow: hidden;
+}
+
+#clustrmaps-container {
+    display: block;
+    margin: 0 auto;
+    transform: scale(0.82);
+    transform-origin: top center;
+}
+
+#clustrmaps-container iframe {
+    max-width: 100% !important;
+}
+
+@media (max-width: 500px) {
+    .clustrmaps-wrap {
+        max-width: 220px;
+        height: 175px;
+    }
+    #clustrmaps-container {
+        transform: scale(0.72);
+    }
+}
