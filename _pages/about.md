@@ -17,6 +17,12 @@ I am currently a Master's student at the **Department of Software Engineering, X
 
 
 # 🔥 News
+[Jun. 2026] 🎉 Excited to share that our paper "**Not all queries need deep thought: Coficot for adaptive coarse-to-fine stateful refinement**" has been accepted to **UAI 2026**! I am honored to be the **first author**.
+
+[Jun. 2026] 🎉 Excited to share that our paper "**Tri-Efficient Transfer Learning for Point Cloud Videos**" has been accepted to **ECCV 2026**! I am honored to be **co-first author** (with Yiding Sun).
+
+[May 2026] 🎉 Excited to share that our paper "**Robust Regularized Policy Iteration under Transition Uncertainty**" has been accepted to **ICANN 2026**! I serve as the **corresponding author**.
+
 [Apr. 2026] 🎉 Excited to share that our paper "**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**" has been accepted to **ACL 2026** as a **Main Conference Oral** presentation! We propose **V-Skip** to address "Visual Amnesia" in MLLM reasoning compression. [Paper](https://arxiv.org/abs/2601.13879) \| [project page](https://dongxu-zhang.github.io/v-skip.github.io/).
 
 [Mar. 2026] 🎉 Excited to share that our two papers "**PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Perception**" and "**PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference**" have been accepted by **ICME 2026**!
@@ -30,6 +36,12 @@ I am currently a Master's student at the **Department of Software Engineering, X
 [Jan. 2026] 🎉 Excited to share that our paper "**DEEP LOCAL FIELD CONSISTENCY FOR NON-RIGID POINT CLOUD REGISTRATION**" has been accepted by **ICASSP**!
 
 # 📝 Publications 
+- `UAI 2026` **Not all queries need deep thought: Coficot for adaptive coarse-to-fine stateful refinement**, **Dongxu Zhang**, Hongqiang Lin, Yiding Sun, Pengyu Wang, Qirui Wang, Ning Yang, Jihua Zhu.
+
+- `ECCV 2026` **Tri-Efficient Transfer Learning for Point Cloud Videos**, Yiding Sun\*, **Dongxu Zhang**\*, et al.
+
+- `ICANN 2026` **Robust Regularized Policy Iteration under Transition Uncertainty**, Hongqiang Lin, Zhenghui Fu, Weihao Tang, Pengfei Wang, Yiding Sun, Qixian Huang, **Dongxu Zhang**‡.
+
 - `ACL 2026 (Main, Oral)` **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**, **Dongxu Zhang**, et al.
 
 - `ICME 2026` **PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Perception**, Yiding Sun, **Dongxu Zhang**, et al.

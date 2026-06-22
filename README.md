@@ -23,6 +23,9 @@ My research interests primarily focus on:
 
 ## 🔥 News
 
+* **[Jun. 2026]** 🎉 "**Not all queries need deep thought: Coficot for adaptive coarse-to-fine stateful refinement**" accepted to **UAI 2026**! (First author)
+* **[Jun. 2026]** 🎉 "**Tri-Efficient Transfer Learning for Point Cloud Videos**" accepted to **ECCV 2026**! (Co-first author)
+* **[May 2026]** 🎉 "**Robust Regularized Policy Iteration under Transition Uncertainty**" accepted to **ICANN 2026**! (Corresponding author)
 * **[Apr. 2026]** 🎉 "**Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**" accepted to **ACL 2026** as a **Main Conference Oral**!
 * **[Mar. 2026]** 🎉 Two papers accepted by **ICME 2026**: "**PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Perception**" and "**PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference**"!
 * **[Mar. 2026]** 🚀 Our latest work "**PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning**" is now on arXiv! We propose a novel **Look–Think–Answer** paradigm for geometry-grounded CoT reasoning over 3D point clouds. Check out the [Paper](https://arxiv.org/abs/2602.23945) and [Project Page](https://dongxu-zhang.github.io/PointCoT.github.io/)!
@@ -32,6 +35,15 @@ My research interests primarily focus on:
 * **[Apr. 2025]** Joined **CASIA** as a research intern, advised by Prof. Ning Yang.
 
 ## 📝 Selected Publications
+
+* **[UAI 2026]** **Not all queries need deep thought: Coficot for adaptive coarse-to-fine stateful refinement**, **Dongxu Zhang**, Hongqiang Lin, Yiding Sun, Pengyu Wang, Qirui Wang, Ning Yang, Jihua Zhu.
+    *(Accepted, 2026)*
+
+* **[ECCV 2026]** **Tri-Efficient Transfer Learning for Point Cloud Videos**, Yiding Sun\*, **Dongxu Zhang**\*, et al.
+    *(Accepted, 2026)*
+
+* **[ICANN 2026]** **Robust Regularized Policy Iteration under Transition Uncertainty**, Hongqiang Lin, Zhenghui Fu, Weihao Tang, Pengfei Wang, Yiding Sun, Qixian Huang, **Dongxu Zhang**‡.
+    *(Accepted, 2026)*
 
 * **[ACL 2026 (Main, Oral)]** **Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring**, **Dongxu Zhang**, et al.
     [[Paper](https://arxiv.org/abs/2601.13879)] [[Project](https://dongxu-zhang.github.io/v-skip.github.io/)]
@@ -90,6 +102,6 @@ My research interests primarily focus on:
 
 ---
 <div align="center">
-    <p>Last Update: Mar 2026</p>
+    <p>Last Update: Jun 2026</p>
     <a href="https://dongxu-zhang.github.io/">Visit My Full Website</a>
 </div>
