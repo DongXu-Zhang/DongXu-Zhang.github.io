@@ -1,0 +1,73 @@
+education:
+  - date: Sep. 2027
+    institution: thu
+    title: Tsinghua University
+    role: Ph.D. student · Incoming
+    advisor: Chang Qiao
+    advisor_url: https://faculty.dpi.tsinghua.edu.cn/qiaochang/zh_CN/index.htm
+    incoming: true
+  - date: 2024 — Present
+    institution: xjtu
+    title: Xi'an Jiaotong University
+    role: M.Eng. in Software Engineering
+    advisor: Jihua Zhu
+    advisor_url: https://gr.xjtu.edu.cn/web/zhujh
+  - date: 2020 — 2024
+    institution: tyut
+    title: Taiyuan University of Technology
+    role: B.Eng. in Computer Science and Technology
+    advisor: Juanjuan Zhao
+    advisor_url: https://rjxy.tyut.edu.cn/info/1191/3989.htm
+experience:
+  - date: Jul. 2026 — Present
+    institution: thu
+    title: Tsinghua University
+    role: Research collaboration · AI for photonics
+    mentor: Chang Qiao
+    mentor_url: https://faculty.dpi.tsinghua.edu.cn/qiaochang/zh_CN/index.htm
+  - date: Dec. 2025 — Jun. 2026
+    institution: shlab
+    title: Shanghai AI Laboratory
+    role: Visiting student · Shanghai
+    mentor: Cheng Tan
+    mentor_url: https://chengtan9907.github.io/
+  - date: Mar. — Nov. 2025
+    institution: casia
+    title: Institute of Automation, Chinese Academy of Sciences
+    role: Research intern · Beijing
+    mentor: Ning Yang
+    mentor_url: https://scholar.google.com/citations?hl=zh-CN&user=b4cE0J4AAAAJ
+  - date: Sep. 2024 — Present
+    institution: xjtu
+    title: CVML Lab, Xi'an Jiaotong University
+    role: Research assistant · Xi'an
+    mentor: Jihua Zhu
+    mentor_url: https://gr.xjtu.edu.cn/web/zhujh
+  - date: Apr. — Aug. 2024
+    institution: synced
+    title: Synced
+    role: Intern · Xi'an
+  - date: Oct. 2022 — Jul. 2024
+    institution: tyut
+    title: Image and Intelligence Lab
+    role: Research assistant · Taiyuan
+    mentor: Juanjuan Zhao
+    mentor_url: https://rjxy.tyut.edu.cn/info/1191/3989.htm
+awards:
+  - { date: "2024", text: "National First Prize, Tecorigin Operator Development Task Challenge" }
+  - { date: "2024", text: "Outstanding Graduate, Taiyuan University of Technology" }
+  - { date: "2023", text: "First-class Scholarship" }
+  - { date: "2022", text: "National Second Prize, Computer Ability Challenge · C++" }
+  - { date: "2021", text: "Truth-Seeking Star · 10 students selected annually at TYUT" }
+talks:
+  - date: Feb. 2025
+    text: Taichu 2024 Excellent Developer Oral Report
+    location: Beijing
+    url: https://mp.weixin.qq.com/s/rRe3ZKtaml_GfJBn_jEqZg
+  - date: Dec. 2024
+    text: First Prize Defense, Tecorigin Operator Development Task Challenge
+    location: Wuhan
+    url: https://competition.atomgit.com/newsinfo?id=fc24043e6d4210cb038ca9a02b39d480
+  - date: May 2021
+    text: Outstanding Student Representative Address
+    location: Taiyuan

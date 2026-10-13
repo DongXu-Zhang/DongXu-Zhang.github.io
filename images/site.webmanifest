@@ -1,19 +1,20 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Dongxu Zhang — Research",
+    "short_name": "Dongxu Zhang",
     "icons": [
        {
-          "src": "/android-chrome-192x192.png",
+          "src": "/images/thu-icon-192.png",
           "sizes": "192x192",
           "type": "image/png"
        },
        {
-        "src": "/android-chrome-512x512.png",
+        "src": "/images/thu-icon-512.png",
         "sizes": "512x512",
         "type": "image/png"
         }
     ],
-    "theme_color": "#FFFFFF",
-    "background_color": "#FFFFFF",
+    "start_url": "/",
+    "theme_color": "#faf9f7",
+    "background_color": "#faf9f7",
     "display": "standalone"
  }

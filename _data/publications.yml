@@ -1,0 +1,232 @@
+# The display label is kept concise; publication_name records the formal venue.
+- id: intern-atlas
+  display_order: 1
+  title: "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists"
+  venue: NeurIPS
+  year: 2026
+  publication_name: Advances in Neural Information Processing Systems
+  authors:
+    - { name: Yujun Wu, equal: true }
+    - { name: Dongxu Zhang, equal: true }
+    - { name: Xinchen Li }
+  authors_truncated: true
+  summary: A methodology evolution graph that makes scientific knowledge traceable and queryable for AI research agents.
+  image: /images/publications/intern-atlas.png
+  image_alt: Intern-Atlas connects research methods in an evidence-grounded evolution graph.
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2604.28158" }
+    - { label: Code, url: "https://github.com/OpenRaiser/Intern-Atlas" }
+    - { label: Project, url: "https://intern-atlas.opendatalab.org.cn/" }
+    - { label: Hugging Face, url: "https://huggingface.co/papers/2604.28158" }
+  highlight: Featured on Hugging Face Daily Papers
+  highlight_url: https://huggingface.co/papers/date/2026-05-01
+  sources:
+    - https://neurips.cc/Downloads/2026
+    - https://arxiv.org/html/2604.28158v2
+
+- id: vict
+  display_order: 2
+  title: "VICT: Verifier-Instrumented Credit Tracing for Long-Horizon LLM Agent Reinforcement Learning"
+  venue: EMNLP
+  year: 2026
+  publication_name: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  authors:
+    - { name: Pengcheng Li }
+    - { name: Zhengyang Zhang }
+    - { name: Dongxu Zhang }
+    - { name: Sui Huang }
+    - { name: Shaohua Ma }
+  summary: Verifier-grounded credit tracing connects long-horizon agent outcomes to the actions that support them.
+  image: /images/publications/vict.png
+  image_alt: VICT traces verifier evidence back to the actions responsible for a task outcome.
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2608.28128" }
+  sources:
+    - https://arxiv.org/abs/2608.28128
+
+- id: v-skip
+  display_order: 6
+  title: "Chain-of-Thought Compression Should Not Be Blind: V-Skip for Efficient Multimodal Reasoning via Dual-Path Anchoring"
+  venue: ACL
+  year: 2026
+  distinction: Main · Oral
+  authors:
+    - { name: Dongxu Zhang, equal: true }
+    - { name: Yiding Sun, equal: true }
+    - { name: Cheng Tan }
+    - { name: Wenbiao Yan }
+    - { name: Ning Yang }
+    - { name: Jihua Zhu }
+    - { name: Haijun Zhang }
+  summary: Preserving visual anchors while compressing reasoning to make multimodal models more efficient and reliable.
+  image: /images/publications/v-skip.png
+  image_alt: V-Skip preserves visually important information during chain-of-thought compression.
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2601.13879" }
+    - { label: Project, url: "https://dongxu-zhang.github.io/v-skip.github.io/" }
+  sources:
+    - https://dongxu-zhang.github.io/v-skip.github.io/
+
+- id: coficot
+  display_order: 3
+  title: "Not All Queries Need Deep Thought: CoFiCot for Adaptive Coarse-to-fine Stateful Refinement"
+  venue: UAI
+  year: 2026
+  authors:
+    - { name: Dongxu Zhang }
+    - { name: Hongqiang Lin }
+    - { name: Yiding Sun }
+    - { name: Pengyu Wang }
+    - { name: Qirui Wang }
+    - { name: Ning Yang }
+    - { name: Jihua Zhu }
+  summary: Allocating reasoning effort to query difficulty through adaptive, history-aware refinement.
+  image: /images/publications/coficot.png
+  image_alt: CoFiCot routes queries to different reasoning strategies according to difficulty.
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2603.08251" }
+  sources:
+    - https://arxiv.org/abs/2603.08251
+
+- id: pointcot
+  display_order: 9
+  title: "PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning"
+  venue: arXiv
+  year: 2026
+  authors:
+    - { name: Dongxu Zhang, equal: true }
+    - { name: Yiding Sun, equal: true }
+    - { name: Pengcheng Li, equal: true }
+  authors_truncated: true
+  summary: A Look–Think–Answer paradigm for explicit, geometry-grounded reasoning over 3D point clouds.
+  image: /images/publications/pointcot.png
+  image_alt: PointCoT grounds the Look–Think–Answer reasoning process in 3D geometry.
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2602.23945" }
+    - { label: Project, url: "https://dongxu-zhang.github.io/PointCoT.github.io/" }
+    - { label: Code, url: "https://github.com/DongXu-Zhang/PointCot" }
+    - { label: Dataset, url: "https://huggingface.co/datasets/dongxu0852/Point-Reason-Instruct" }
+  sources:
+    - https://dongxu-zhang.github.io/PointCoT.github.io/
+
+- id: pointrie
+  display_order: 4
+  title: Tri-Efficient Transfer Learning for Point Cloud Videos
+  venue: ECCV
+  year: 2026
+  authors:
+    - { name: Yiding Sun, equal: true }
+    - { name: Dongxu Zhang, equal: true }
+    - { name: Jihua Zhu }
+    - { name: Haozhe Cheng }
+    - { name: Zhengqiao Li }
+    - { name: Pengcheng Li }
+    - { name: Chaowei Fang }
+    - { name: Yonghao Dong }
+    - { name: Lin Chen }
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2606.24175" }
+
+- id: regularized-policy
+  display_order: 5
+  title: Robust Regularized Policy Iteration under Transition Uncertainty
+  venue: ICANN
+  year: 2026
+  authors:
+    - { name: Hongqiang Lin }
+    - { name: Zhenghui Fu }
+    - { name: Weihao Tang }
+    - { name: Pengfei Wang }
+    - { name: Yiding Sun }
+    - { name: Qixian Huang }
+    - { name: Dongxu Zhang, corresponding: true }
+
+- id: pointrft
+  display_order: 7
+  title: "PointRFT: Explicit Reinforcement Fine-tuning for Point Cloud Few-shot Learning"
+  venue: ICME
+  year: 2026
+  authors:
+    - { name: Yankai Wang }
+    - { name: Yiding Sun }
+    - { name: Qirui Wang }
+    - { name: Pengbo Li }
+    - { name: Chaoyi Lu }
+    - { name: Dongxu Zhang }
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2603.23957" }
+  sources:
+    - https://arxiv.org/abs/2603.23957
+
+- id: personalq
+  display_order: 8
+  title: "PersonalQ: Select, Quantize, and Serve Personalized Diffusion Models for Efficient Inference"
+  venue: ICME
+  year: 2026
+  authors:
+    - { name: Qirui Wang }
+    - { name: Qi Guo }
+    - { name: Yiding Sun }
+    - { name: Junkai Yang }
+    - { name: Dongxu Zhang }
+    - { name: Shanmin Pang }
+    - { name: Qing Guo }
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2603.22943" }
+  sources:
+    - https://arxiv.org/abs/2603.22943
+
+- id: cmhanet
+  display_order: 10
+  title: "CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration"
+  venue: Neurocomputing
+  year: 2026
+  authors:
+    - { name: Dongxu Zhang }
+    - { name: Yingsen Wang }
+    - { name: Yiding Sun }
+    - { name: Haoran Xu }
+    - { name: Peilin Fan }
+    - { name: Jihua Zhu }
+  links:
+    - { label: Paper, url: "https://arxiv.org/abs/2603.12721" }
+    - { label: Code, url: "https://github.com/DongXu-Zhang/CMHANet" }
+  sources:
+    - https://www.sciencedirect.com/science/article/pii/S0925231226007150
+
+- id: igasa
+  display_order: 11
+  title: "IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration"
+  venue: IEEE TCSVT
+  year: 2026
+  authors:
+    - { name: Dongxu Zhang }
+    - { name: Jihua Zhu }
+    - { name: Shiqi Li }
+    - { name: Wenbiao Yan }
+    - { name: Haoran Xu }
+    - { name: Peilin Fan }
+    - { name: Huimin Lu }
+  links:
+    - { label: Paper, url: "https://ieeexplore.ieee.org/abstract/document/11361164" }
+
+- id: local-field
+  display_order: 12
+  title: Deep Local Field Consistency for Non-Rigid Point Cloud Registration
+  venue: ICASSP
+  year: 2026
+  authors:
+    - { name: Haoran Xu }
+    - { name: Dongxu Zhang }
+  authors_truncated: true
+
+- id: energy-trading
+  display_order: 13
+  title: Enhancing Power Grid Resilience with Blockchain-Enabled Vehicle-to-Vehicle Energy Trading in Renewable Energy Integration
+  venue: IEEE TIA
+  authors:
+    - { name: Yingsen Wang }
+    - { name: Dongxu Zhang }
+  authors_truncated: true
+  links:
+    - { label: Paper, url: "https://ieeexplore.ieee.org/abstract/document/10243038" }

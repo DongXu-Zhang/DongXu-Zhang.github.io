@@ -6,8 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Dongxu Zhang(张栋旭)"
-description              : "Research in XJTU. Focusing on 3D-Vision and LLM Reasoning. "
+title                    : "Dongxu Zhang · 张栋旭"
+description              : "Incoming Ph.D. student at Tsinghua University in September 2027. Research in efficient reasoning, multimodal learning, and AI for scientific discovery."
+url                      : "https://dongxu-zhang.github.io"
+baseurl                  : ""
 repository               : "DongXu-Zhang/DongXu-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dongxu Zhang"
   avatar           : "images/touxiang.jpg"
-  bio              : "XJTU"
+  bio              : "Master's student at XJTU · Incoming Ph.D. student at Tsinghua, Sep. 2027"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 

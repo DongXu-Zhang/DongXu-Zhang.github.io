@@ -1,0 +1,12 @@
+- id: nanoresearch
+  name: NanoResearch
+  date: Jan. 2026 — Present
+  role: Core contributor
+  url: https://github.com/OpenRaiser/NanoResearch
+  description: "Contributed to an autonomous research workflow covering literature review, experiment planning, code generation, GPU and SLURM execution, and manuscript drafting. Worked on reusable research skills, project memory, workflow validation, and application demonstrations."
+- id: agentuniverse
+  name: agentUniverse
+  date: Mar. 2025 — Present
+  role: Open-source contributor
+  url: https://github.com/agentuniverse-ai/agentUniverse
+  description: "Developed an image-to-text tool using OpenCV, EAST, and Tesseract, with Chinese and English recognition, image preprocessing, and fallback OCR. Added result cleaning, saving, and tests; the contribution was merged into the official repository in April 2025."

@@ -1,0 +1,18 @@
+thu:
+  name: Tsinghua University
+  image: /images/thu-emblem.svg
+xjtu:
+  name: Xi'an Jiaotong University
+  image: /images/XJTU_emblem.svg
+tyut:
+  name: Taiyuan University of Technology
+  image: /images/institutions/tyut-emblem.jpg
+shlab:
+  name: Shanghai AI Laboratory
+  image: /images/institutions/shlab-logo.png
+casia:
+  name: Institute of Automation, Chinese Academy of Sciences
+  image: /images/institutions/casia-emblem.jpg
+synced:
+  name: Synced
+  image: /images/institutions/synced-logo.png

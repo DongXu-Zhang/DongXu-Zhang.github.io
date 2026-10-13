@@ -1,42 +1,17 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="en" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-  </head>
-
+  <head>{% include head.html %}{% include head/custom.html %}</head>
   <body>
-
-    {% include browser-upgrade.html %}
+    <a class="skip-link" href="#main">Skip to content</a>
     {% include masthead.html %}
-
-    <div id="main" role="main">
-      {% include sidebar.html %}
-    
-      <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
-        <div class="page__inner-wrap">
-          <section class="page__content" itemprop="text">
-            {{ content }}
-          </section>
-        </div>
-      </article>
+    <div class="site-shell">
+      {% include author-profile.html %}
+      <main id="main" tabindex="-1">{{ content }}</main>
     </div>
-
-    <footer style="text-align:center; padding:20px 0; color:#999; font-size:12px; border-top:1px solid #eee; margin-top:40px;">
-      <div class="clustrmaps-wrap">
-        <div id="clustrmaps-container">
-          <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=L-tRTPOVJacqqWJ_-AhGpJGnCx2EoeSXQ_A2EE0o5BM&cl=ffffff&w=a"></script>
-        </div>
-      </div>
-      <span>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. Powered by Jekyll.</span>
+    <footer class="site-footer">
+      <div class="footer-inner"><p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }} <span>·</span> Last updated {{ site.time | date: '%B %Y' }}</p><a href="#about-me">Back to top <span aria-hidden="true">↑</span></a></div>
+      <details class="visitor-map disclosure" open><summary>Visitor map <span aria-hidden="true">+</span></summary><div class="clustrmaps-wrap" id="clustrmaps-container" data-map-src="https://clustrmaps.com/map_v2.js?d=L-tRTPOVJacqqWJ_-AhGpJGnCx2EoeSXQ_A2EE0o5BM&amp;cl=ffffff&amp;w=a"></div></details>
     </footer>
-
     {% include scripts.html %}
-
   </body>
 </html>

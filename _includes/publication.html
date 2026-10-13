@@ -1,0 +1,6 @@
+{% assign paper = include.paper %}
+<li class="publication" id="paper-{{ paper.id }}">
+  <span class="venue">[{{ paper.venue }}{% if paper.year %} {{ paper.year }}{% endif %}{% if paper.distinction %}, {{ paper.distinction | replace: ' · ', ', ' }}{% endif %}]</span>
+  <span class="publication-title">{{ paper.title }}</span>.
+  <span class="publication-authors">{% for author in paper.authors %}{% if author.name == site.author.name %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% if author.equal %}<sup>*</sup>{% endif %}{% if author.corresponding %}<sup>†</sup>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% if paper.authors_truncated %}, et al.{% else %}.{% endif %}</span>
+</li>

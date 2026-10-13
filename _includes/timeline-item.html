@@ -1,0 +1,12 @@
+{% assign entry = include.entry %}
+{% assign institution = site.data.institutions[entry.institution] %}
+<div class="timeline-row{% if entry.incoming %} timeline-row--incoming{% endif %}">
+  <div class="institution-logo institution-logo--{{ entry.institution | default: 'plain' }}" aria-hidden="true">
+    {% if institution.image %}<img src="{{ institution.image | relative_url }}" alt="" width="54" height="54" loading="lazy">{% else %}<span class="institution-placeholder"></span>{% endif %}
+  </div>
+  <div class="timeline-body">
+    <div class="timeline-heading"><h3>{{ entry.title }}</h3><p class="timeline-date">{{ entry.date }}</p></div>
+    <p>{{ entry.role }}</p>
+    {% if entry.advisor %}<p class="timeline-detail">Advisor: <a href="{{ entry.advisor_url }}" target="_blank" rel="noopener noreferrer">{{ entry.advisor }}</a></p>{% elsif entry.mentor %}<p class="timeline-detail">Mentor: <a href="{{ entry.mentor_url }}" target="_blank" rel="noopener noreferrer">{{ entry.mentor }}</a></p>{% endif %}
+  </div>
+</div>

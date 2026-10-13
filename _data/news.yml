@@ -1,0 +1,42 @@
+- date: Oct. 2026
+  text: "I will join Tsinghua University in September 2027 to pursue a Ph.D. under the supervision of Prof. Chang Qiao."
+  url: https://faculty.dpi.tsinghua.edu.cn/qiaochang/zh_CN/index.htm
+- date: "2026"
+  paper: intern-atlas
+  url: "#paper-intern-atlas"
+- date: "2026"
+  paper: vict
+  url: "#paper-vict"
+- date: Jun. 2026
+  paper: coficot
+  url: "#paper-coficot"
+- date: Jun. 2026
+  paper: pointrie
+  url: "#paper-pointrie"
+- date: May 2026
+  paper: regularized-policy
+  url: "#paper-regularized-policy"
+- date: May 2026
+  text: "Our paper “Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists” was featured on Hugging Face Daily Papers on May 1."
+  url: https://huggingface.co/papers/date/2026-05-01
+- date: Apr. 2026
+  paper: v-skip
+  url: "#paper-v-skip"
+- date: Mar. 2026
+  paper: pointrft
+  url: "#paper-pointrft"
+- date: Mar. 2026
+  paper: personalq
+  url: "#paper-personalq"
+- date: Mar. 2026
+  text: "Our paper “PointCoT: A Multi-modal Benchmark for Explicit 3D Geometric Reasoning” is available on arXiv."
+  url: "#paper-pointcot"
+- date: Jan. 2026
+  paper: igasa
+  url: "#paper-igasa"
+- date: Jan. 2026
+  paper: cmhanet
+  url: "#paper-cmhanet"
+- date: Jan. 2026
+  paper: local-field
+  url: "#paper-local-field"

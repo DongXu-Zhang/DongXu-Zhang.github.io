@@ -1,0 +1,19 @@
+name: Dongxu Zhang
+name_zh: 张栋旭
+role: Master's student
+affiliation: Xi'an Jiaotong University
+visiting_affiliation: Shanghai AI Laboratory
+research_line: Efficient reasoning, multimodal learning, and AI for science
+incoming:
+  university: Tsinghua University
+  date: September 2027
+  label: Incoming Ph.D. student
+  advisor: Chang Qiao
+  advisor_url: https://faculty.dpi.tsinghua.edu.cn/qiaochang/zh_CN/index.htm
+research:
+  - title: Efficient reasoning
+    description: Reasoning compression, adaptive computation, and reliable self-correction.
+  - title: Multimodal learning
+    description: Grounded reasoning across language, vision, and 3D geometry.
+  - title: AI for science
+    description: Research agents and structured knowledge for scientific discovery.

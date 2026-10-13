@@ -1,0 +1,8 @@
+{% assign update = include.update %}
+{% if update.paper %}
+  {% assign news_paper = site.data.publications | where: 'id', update.paper | first %}
+  {% capture update_text %}Our paper “{{ news_paper.title }}” has been accepted {% if news_paper.venue == 'IEEE TCSVT' or news_paper.venue == 'Neurocomputing' %}by {{ news_paper.venue }}{% else %}to {{ news_paper.venue }} {{ news_paper.year }}{% endif %}{% if news_paper.id == 'v-skip' %} (main conference, oral presentation){% endif %}.{% endcapture %}
+{% else %}
+  {% assign update_text = update.text %}
+{% endif %}
+<li><span class="news-date">{{ update.date }}</span><span>{% if update.url %}<a href="{{ update.url }}"{% unless update.url contains '#' %} target="_blank" rel="noopener noreferrer"{% endunless %}>{{ update_text }}</a>{% else %}{{ update_text }}{% endif %}</span></li>
